@@ -1,0 +1,57 @@
+Documentation: task-1
+Introduction:
+The to-do list web application is designed to allow users to keep track of their tasks by adding, completing, and deleting tasks dynamically through a user-friendly interface.
+
+Technologies Used:
+HTML: Used for defining the structure of the web page.
+CSS: Used for styling the appearance of the web page.
+JavaScript: Used for adding interactivity and functionality to the to-do list.
+HTML Structure:
+The HTML structure includes a container div with a title, an input field for adding tasks, a button to add tasks, and an unordered list to display tasks.
+
+CSS Styling:
+CSS is applied to enhance the appearance of the to-do list, including layout design, typography, button styles, and list item styles for completed tasks.
+
+JavaScript Functionality:
+JavaScript is responsible for adding functionality to the to-do list, including adding tasks, marking tasks as completed (by toggling a CSS class), and deleting tasks (by right-clicking on a task).
+
+User Interactions:
+The user can add a new task by entering text in the input field and clicking the "Add Task" button. Tasks can be marked as completed by clicking on them, and completed tasks can be deleted by right-clicking on them.
+
+Conclusion:
+In conclusion, the to-do list web application provides a simple yet effective way for users to manage their tasks. Further enhancements could include additional features such as task prioritization, due dates, and categorization.
+
+This documentation provides a comprehensive overview of the to-do list project, including its functionality, design, and user interactions.
+
+
+
+
+
+Documentation:task-2
+Introduction:
+The weather forecast app is designed to provide users with up-to-date weather information for their location or any specified location. Users can input their location manually or allow the app to access their current location to retrieve weather data from the OpenWeatherMap API.
+
+Technologies Used:
+HTML: Defines the structure of the web page.
+CSS: Styles the appearance of the web page.
+JavaScript: Fetches weather data from the OpenWeatherMap API and updates the DOM with the weather information.
+HTML Structure:
+The HTML structure includes input fields for entering the location manually or allowing access to the current location. Upon submission, the weather information is displayed below the input fields.
+
+CSS Styling:
+CSS is applied to enhance the appearance of the weather forecast app, including layout design, typography, button styles, and styles for displaying weather information.
+
+JavaScript Functionality:
+JavaScript is responsible for fetching weather data from the OpenWeatherMap API, processing the data, and updating the DOM with the weather information. It also includes functionality for handling user interactions, such as submitting location input and accessing the current location.
+
+User Interactions:
+Users can input their location manually or click a button to allow the app to access their current location. Upon submission, the app fetches weather data for the specified location and displays it on the web page.
+
+Conclusion:
+In conclusion, the weather forecast app provides users with a convenient way to stay informed about current weather conditions. Further enhancements could include adding support for displaying weather forecasts for multiple days, providing weather alerts, and improving the user interface for better usability and accessibility.
+
+This documentation provides a comprehensive overview of the weather forecast app project, including its functionality, design, and user interactions.
+
+Remember to replace "YOUR_API_KEY" with your actual OpenWeatherMap API key in the JavaScript code.
+
+Feel free to customize and extend the app further based on your requirements!
